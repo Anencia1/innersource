@@ -2,6 +2,9 @@
 
 For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories. 
 
+Learn about ways to make your repository easy to discover.
+Resume
+
 ### Repository purpose
 - Make sure you solve a real problem. Repositories that have useful, helpful information will always rise to the top. 
 - Make sure your idea behind the solution and your vision are clearly written down. It helps if people know not only what the repository is _for_, but where it came from and where it's going. 
